@@ -8,7 +8,7 @@ To use this project, clone this repo and run *npm install* in the project folder
 
 ## More Coursetro
 
-[Coursetro.com Tutorials and Courses](https://coursetro.com)
-[Coursetro Youtube Channel](http://youtube.com/user/designcourse)
-[Coursetro Slack Chat](https://coursetro.com/chat)
-[Coursetro on Facebook](https://www.facebook.com/coursetro)
+* [Coursetro.com Tutorials and Courses](https://coursetro.com)
+* [Coursetro Youtube Channel](http://youtube.com/user/designcourse)
+* [Coursetro Slack Chat](https://coursetro.com/chat)
+* [Coursetro on Facebook](https://www.facebook.com/coursetro)
