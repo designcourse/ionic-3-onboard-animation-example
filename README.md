@@ -1,26 +1,14 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+This is the project from the [Ionic 3 Onboarding Tutorial](https://coursetro.com/posts/code/76/Create-an-Animated-App-Onboarding-Process-with-Ionic-3) via Gary Simon.
 
-## How to use this template
+## What is this?
 
-*This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
+Visit the tutorial and watch the video to see this project in action on an android device. Feel free to adapt/use this project how you see fit.
 
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/ionic-team/ionic2-app-base).
+To use this project, clone this repo and run *npm install* in the project folder.
 
-### With the Ionic CLI:
+## More Coursetro
 
-Take the name after `ionic2-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
-
-```bash
-$ sudo npm install -g ionic cordova
-$ ionic start myBlank blank
-```
-
-Then, to run it, cd into `myBlank` and run:
-
-```bash
-$ ionic cordova platform add ios
-$ ionic cordova run ios
-```
-
-Substitute ios for android if not on a Mac.
-
+[Coursetro.com Tutorials and Courses](https://coursetro.com)
+[Coursetro Youtube Channel](http://youtube.com/user/designcourse)
+[Coursetro Slack Chat](https://coursetro.com/chat)
+[Coursetro on Facebook](https://www.facebook.com/coursetro)
